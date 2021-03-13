@@ -17,3 +17,9 @@ Steps to run demo :
 4. >afplay speech.mp3 on your mac terminal <for windows it may be different>
 5. to run 2nd program : just > Node aws_polly_speaker.js to relayt the speech direftly into speaker.
    
+
+
+FAQs: 
+
+1. https://docs.aws.amazon.com/sdk-for-php/v3/developer-guide/guide_credentials.html
+2. https://docs.aws.amazon.com/code-samples/latest/catalog/php-polly-SynthesizeSpeech.php.html
